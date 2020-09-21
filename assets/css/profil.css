@@ -1,0 +1,44 @@
+body {
+}
+.container {
+	width: 750px;
+	height: 500px;
+	background-color: #eaeaea;
+	border: 1px solid brown;
+	margin: auto;
+	border-radius: 10px;
+}
+#content {
+		width:460px;
+		margin-left: 20px;
+		padding-top: 135px;
+		padding-left: 20px;
+		border-right:1px solid #333;
+		height:498px;
+		float:left;
+}
+#sidebar {
+		width:180px;
+		float:right;
+}
+.nama {
+	font-weight: bold;
+	font-size: 34px;
+	text-align: center;
+	text-shadow: 1px 1px 10px rgb(255, 255, 255);
+}
+.table td {
+	float: left;
+	font-size: 17px;
+	text-shadow: 1px 1px 10px rgb(255, 255, 255);
+}
+hr {
+	width: 250px;
+	border-top: 3px solid #999;
+}
+img {
+	margin-top: 160px;
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+}
